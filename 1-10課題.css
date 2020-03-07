@@ -56,7 +56,7 @@ main {
 @media screen and (max-width:768px) {
 .step {
 	float: none;
-	margin: 10px auto;
+	margin: 20px auto;
 	width: 90%;
 }
 .step:nts-child(1) {
@@ -67,7 +67,8 @@ main {
 }
 main {
 	margin: 50px auto;
-	width: 90%;
+	width: 100%;
+
 }
 }
 
